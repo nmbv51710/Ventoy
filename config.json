@@ -19,10 +19,10 @@
         "security": "reality",
                 "realitySettings": {
                         "show": false,
-                        "dest": "www.ptc.com:443",
+                        "dest": "www.amazon.sg:443",
                         "xver": 0,
                         "serverNames": [
-                                "www.ptc.com"
+                                "www.amazon.sg"
                         ],
                         "privateKey": "oJr6uyHJPcisr3Jz-pFyZXMDohDjdqEXm-8fw0vf2EE",
                         "minClientVer": "",
