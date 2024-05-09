@@ -72,7 +72,7 @@
       {
         "type": "field",
         "outboundTag": "netflix",
-        "domain": ["geosite:google","geosite:netflix"]
+        "domain": ["geosite:netflix"]
       },
        {
         "type": "field",
